@@ -1,0 +1,9 @@
+site_name: Solrift Token
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Key Features: features/index.md
+  - Why Solrift: why-solrift/index.md
+  - Contribute: contribute/index.md
