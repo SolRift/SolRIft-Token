@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 site_name: Solrift Token
 theme:
   name: material
@@ -7,3 +8,21 @@ nav:
   - Key Features: features/index.md
   - Why Solrift: why-solrift/index.md
   - Contribute: contribute/index.md
+=======
+site_name: SolriftToken Docs
+
+nav:
+  - Home: index.md
+  - Key Features: Features/index.md
+  - Why Solrift: Why Solrift/index.md
+  - Contribute: Contribute/index.md
+
+theme:
+  name: material
+  palette:
+    primary: deep orange
+    accent: orange
+
+repo_url: https://github.com/SolRift/SolRIft-Token
+repo_name: SolRIft-Token
+>>>>>>> 767472094b4f1b51f135ae9cb70facdb756f9352
